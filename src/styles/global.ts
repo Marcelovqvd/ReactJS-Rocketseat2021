@@ -2,7 +2,7 @@ import { createGlobalStyle } from 'styled-components';
 
 export const GLobalStyle = createGlobalStyle`
   * {
-    margin: 0;
+    margin: 50px;
     padding: 0;
     box-sizing: border-box;
   }
